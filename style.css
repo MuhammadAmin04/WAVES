@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.btnn {
+  border: 1px solid #f5f5f5;
+  margin-top: 88px;
+}
+
+
